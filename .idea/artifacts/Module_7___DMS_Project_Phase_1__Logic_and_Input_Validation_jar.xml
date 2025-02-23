@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Module 7 - DMS Project Phase 1- Logic and Input Validation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Module_7___DMS_Project_Phase_1__Logic_and_Input_Validation_jar</output-path>
+    <root id="archive" name="Module 7 - DMS Project Phase 1- Logic and Input Validation.jar">
+      <element id="module-output" name="Module 7 - DMS Project Phase 1- Logic and Input Validation" />
+    </root>
+  </artifact>
+</component>
