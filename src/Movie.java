@@ -80,10 +80,3 @@ public class Movie {
     }
 }
 
-/*Class Purpose:
-designed to represent a movie object with various attributes such as title, release year, genre, director, rating, and
-watched status. It provides a constructor for initializing these attributes, getters and setters for accessing and
-modifying them, and a toString method to display the movie information in a readable format. This class allows for easy
-management of movie data, whether adding, updating, or displaying information related to a specific movie. It can be
-used in movie-related applications, such as managing a movie collection or a recommendation system.
- */
